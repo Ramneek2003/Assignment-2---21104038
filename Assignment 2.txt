@@ -1,0 +1,9 @@
+1. In a circular linked list last node points to the head of the list, so we can check if any node points to head of the linked list.
+
+2. Applications:
+    Circular linked lists are used in applications where the entire is accessed one-by-one in a loop.
+    1. The browser cache which allows us to hit the BACK button.
+    2. Multiplayer games use a circular linked list to swap between players in a loop.
+    2. Circular linked lists are helpful in the implementation of stack and queue data structures.
+    3. Circular linked lists can be used to manage the computing resources of the computer.
+    4. Undo functionality in photoshop and word.
